@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primus - The Elemental Chronicles</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        h1 {
+            text-align: center;
+        }
+        nav {
+            margin: 20px 0;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #007BFF;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Primus</h1>
+    </header>
+
+    <!-- Table of Contents -->
+    <nav>
+        <a href="#description">Description</a>
+        <a href="#history">Background and History</a>
+        <a href="#personality">Personality Traits</a>
+        <a href="#motivations">Motivations</a>
+        <a href="#strengths">Strengths</a>
+        <a href="#weaknesses">Weaknesses</a>
+        <a href="#hobbies">Hobbies</a>
+        <a href="#interests">Interests</a>
+        <a href="#likes">Likes</a>
+        <a href="#dislikes">Dislikes</a>
+        <a href="#relationships">Relationships with Other Elements</a>
+        <a href="#locations">Locations and Jobs</a>
+    </nav>
+
+    <!-- Description Section -->
+    <section id="description">
+        <h2>Description</h2>
+        <p>Primus is a towering, godlike figure, embodying the very essence of the universe’s creation. His form is radiant, glowing with the light of the stars, and he carries the energy of the primordial explosion that birthed the cosmos. Primus is a force of creation and destruction, maintaining the balance between the birth of stars and their eventual death. He stands as the first of the Star Lords and the origin of all that is.</p>
+    </section>
+
+    <!-- History Section -->
+    <section id="history">
+        <h2>Background and History</h2>
+        <p>Primus, the First Star, is considered the progenitor of all elemental life. Born from the Great Explosion, he is said to have forged the first elements from pure cosmic energy. Primus shaped the first hydrogen particles, which began the chain of events that would lead to the creation of all other elements. He is revered as a creator and a protector of cosmic order, guiding the formation of galaxies and stellar systems.</p>
+        <p>His creation of the <a href="[[Hydrogen Orb - Object Page]]">Hydrogen Orb</a> marked the beginning of the cosmic order, setting the foundation for the art of Divine Forging, where powerful cosmic beings could manipulate elemental essence.</p>
+    </section>
+
+    <!-- Personality Section -->
+    <section id="personality">
+        <h2>Personality Traits</h2>
+        <p>Primus is a being of immense wisdom, calm, and contemplation. He is the embodiment of cosmic law and order. While he holds the power to create and destroy, he uses his abilities only when absolutely necessary, preferring to guide the universe toward balance rather than imposing his will. Primus is a figure of unparalleled dignity, commanding respect from all who meet him.</p>
+    </section>
+
+    <!-- Motivations Section -->
+    <section id="motivations">
+        <h2>Motivations</h2>
+        <p>Primus is motivated by the desire to maintain the cosmic balance and ensure the continued growth of the universe. He strives to prevent chaos and destruction from overpowering the natural order. His ultimate goal is the continued creation of stars, planets, and elements, but he is also deeply committed to the idea of balance — that everything in the universe must have its time to be born and eventually fade.</p>
+    </section>
+
+    <!-- Strengths Section -->
+    <section id="strengths">
+        <h2>Strengths</h2>
+        <ul>
+            <li><strong>Creation of Stars:</strong> Primus has the power to initiate the birth of stars, a force that shapes the very fabric of the universe.</li>
+            <li><strong>Cosmic Control:</strong> As the first Star Lord, he has control over cosmic energy, allowing him to manipulate matter and energy with ease.</li>
+            <li><strong>Divine Forging:</strong> Primus is a master of Divine Forging, allowing him to create artifacts of immense power, such as the <a href="[[Hydrogen Orb - Object Page]]">Hydrogen Orb</a>.</li>
+        </ul>
+    </section>
+
+    <!-- Weaknesses Section -->
+    <section id="weaknesses">
+        <h2>Weaknesses</h2>
+        <ul>
+            <li><strong>Vulnerability to Chaos:</strong> Primus’s connection to cosmic order makes him susceptible to forces of pure chaos that disrupt the natural flow of the universe.</li>
+            <li><strong>Isolation:</strong> Being one of the few primordial beings left, Primus can become isolated and vulnerable when there are no allies nearby.</li>
+        </ul>
+    </section>
+
+    <!-- Hobbies Section -->
+    <section id="hobbies">
+        <h2>Hobbies</h2>
+        <p>Primus enjoys watching the formation of new stars and galaxies, taking solace in the ongoing creation of the universe. He also takes time to meditate, contemplating the balance of the cosmos and his role in it.</p>
+    </section>
+
+    <!-- Interests Section -->
+    <section id="interests">
+        <h2>Interests</h2>
+        <p>Primus is deeply interested in the study of cosmic forces, particularly the birth and death of stars. He also focuses on the evolution of the elements, understanding their role in the grand scheme of the universe.</p>
+    </section>
+
+    <!-- Likes Section -->
+    <section id="likes">
+        <h2>Likes</h2>
+        <ul>
+            <li><strong>Creation:</strong> Primus enjoys watching new stars, planets, and elements come into being, adding to the universe’s grand tapestry.</li>
+            <li><strong>Order:</strong> He has a deep affinity for balance and harmony in the universe, ensuring that all things follow their destined path.</li>
+        </ul>
+    </section>
+
+    <!-- Dislikes Section -->
+    <section id="dislikes">
+        <h2>Dislikes</h2>
+        <ul>
+            <li><strong>Chaos:</strong> Primus abhors chaos and disorder, seeing them as threats to the balance and growth of the universe.</li>
+            <li><strong>Destruction:</strong> He dislikes the forces that seek to undo or destroy what he has created, especially those that defy the natural order.</li>
+        </ul>
+    </section>
+
+    <!-- Relationships Section -->
+    <section id="relationships">
+        <h2>Relationships with Other Elements</h2>
+        <ul>
+            <li><a href="[[Helion - Character Page]]">Helion</a>: Primus shares a deep respect for Helion, as both are Star Lords with complementary roles in the cosmos.</li>
+            <li><a href="[[Krypton - Character Page]]">Krypton</a>: The connection between Primus and Krypton is rooted in their shared understanding of cosmic power, though they often disagree on the methods used to maintain balance.</li>
+        </ul>
+    </section>
+
+    <!-- Locations Section -->
+    <section id="locations">
+        <h2>Locations and Jobs</h2>
+        <ul>
+            <li><a href="[[The Celestial Forge - Location Page]]">The Celestial Forge</a>: A sacred location where Primus forges the first elements and shapes the foundation of the universe.</li>
+            <li><a href="[[Hydrogen Heights - Location Page]]">Hydrogen Heights</a>: A place of reverence for Primus, where the first hydrogen particles were created, and where cosmic forces are studied.</li>
+            <li><a href="[[The First Star’s Domain - Location Page]]">The First Star’s Domain</a>: The domain where Primus resides, a place of vast cosmic power and the birthplace of all elements.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>For more information on Primus, visit the <a href="https://en.wikipedia.org/wiki/Primus" target="_blank">Wikipedia page</a>.</p>
+    </footer>
+
+</body>
+</html>
